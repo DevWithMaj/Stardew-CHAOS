@@ -1,0 +1,8 @@
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\bin\Debug\net5.0\Stardew CHAOS Mod.deps.json
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\bin\Debug\net5.0\Stardew CHAOS Mod.dll
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\obj\Debug\net5.0\Stardew CHAOS Mod.csproj.AssemblyReference.cache
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\obj\Debug\net5.0\Stardew CHAOS Mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\obj\Debug\net5.0\Stardew CHAOS Mod.AssemblyInfoInputs.cache
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\obj\Debug\net5.0\Stardew CHAOS Mod.AssemblyInfo.cs
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\obj\Debug\net5.0\Stardew CHAOS Mod.csproj.CoreCompileInputs.cache
+C:\Users\Majesity\source\repos\Stardew CHAOS Mod\Stardew CHAOS Mod\obj\Debug\net5.0\Stardew CHAOS Mod.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdwllvVhF196bindT5hHKWyovuWduMns1jt+gBFJF5HJamtjoziU8kzorC1EDRpSLpeSKCRAV0RU+jINQ+xhXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Majesity\\source\\repos\\Stardew CHAOS Mod\\Stardew CHAOS Mod\\Stardew CHAOS Mod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Majesity\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
